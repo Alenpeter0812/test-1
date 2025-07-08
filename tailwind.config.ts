@@ -1,0 +1,1 @@
+// Tailwind config with #3b82f6

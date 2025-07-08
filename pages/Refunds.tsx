@@ -1,0 +1,1 @@
+// Refunds: Full refund within 30 days of purchase.
